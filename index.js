@@ -32,3 +32,5 @@ function makeInt(n) {
 function preserveDecimal(n) {
   return parseFloat(n)
 }
+
+console.log(preserveDecimal(152.34958))
