@@ -29,4 +29,6 @@ function makeInt(n) {
   return parseInt(n, 10)
 }
 
-console.log(makeInt(14.5))
+function preserveDecimal(n) {
+  
+}
