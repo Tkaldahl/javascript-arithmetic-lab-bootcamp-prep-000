@@ -18,6 +18,6 @@ function divide(a,b) {
 }
 
 function inc(n) {
-  n=a
-  return n+1
+  var n=a
+  return a++
 }
