@@ -33,4 +33,4 @@ function preserveDecimal(n) {
   return parseFloat(n)
 }
 
-console.log(preserveDecimal(152.34958))
+console.log(preserveDecimal('asdf'))
