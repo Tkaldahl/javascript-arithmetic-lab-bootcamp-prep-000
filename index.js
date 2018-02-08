@@ -18,5 +18,6 @@ function divide(a,b) {
 }
 
 function inc(n) {
-  return parseInt(a)+1
+  var n=a
+  return n+1
 }
