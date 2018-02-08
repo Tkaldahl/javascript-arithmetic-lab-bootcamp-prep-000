@@ -18,6 +18,5 @@ function divide(a,b) {
 }
 
 function inc(n) {
-  n = a
   return a += 1
 }
