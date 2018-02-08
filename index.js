@@ -29,4 +29,4 @@ function makeInt(n) {
   return parseInt(n, 10)
 }
 
-makeInt(14)
+console.log(makeInt(14))
